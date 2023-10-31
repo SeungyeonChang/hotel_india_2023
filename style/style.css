@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Indie+Flower&family=Lilita+One&display=swap');
+
+
+body {
+  background-color:  #efedce;
+}
+
+.navbar-custom{
+  background-color: #0a5d61;
+}
+
+header{
+  padding:10px 0px 20px 0px;
+  font-family: 'Lilita One', sans-serif;
+}
+.form-select, ::placeholder{
+  font-family: 'Lilita One', sans-serif;
+}
+#btnLoadData{
+  font-family: 'Bree Serif', serif;
+  background-color: #efedce;
+  color: black;
+}
+.btn-secondary, .btn-primary{
+  font-family: 'Bree Serif', serif;
+  background-color: #0a5d61;
+}
+#greetOutput{
+  font-family: 'Bree Serif', serif;
+}
+.form-card{
+  background-color:  #f6f5e6;
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 1px 10px 2px ;
+    max-width: 700px;
+  }
